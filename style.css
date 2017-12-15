@@ -9,13 +9,17 @@ body {
   text-align: center;
   }
   a img{
-    width: 50%;
-    padding-left: 200px;
+    width: 40%;
+    padding-left: 30%;
     text-align: center;
+    display: block;
   }
   button{
-    background-color: navy;
-    padding: 5px;
+    background-color: white;
+    padding: 10px;
     border-radius: 5px;
+    text-align: center;
+    margin-left:  46%;
+    margin-top: 3%;
     
   }
