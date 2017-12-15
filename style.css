@@ -1,12 +1,18 @@
-body {
-  height: 100%;
+
+
+body{
+  width: 80%;
   margin: 0;
   background: #81CAFA;
+  margin: 100px;
   }
   
   h2, h3{
   color: white;
   text-align: center;
+  }
+  h2{
+    font-size: 3em;
   }
   a img{
     width: 40%;
