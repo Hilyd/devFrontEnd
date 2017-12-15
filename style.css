@@ -9,7 +9,13 @@ body {
   text-align: center;
   }
   a img{
-    width: 70%;
+    width: 50%;
     padding-left: 200px;
     text-align: center;
+  }
+  button{
+    background-color: navy;
+    padding: 5px;
+    border-radius: 5px;
+    
   }
