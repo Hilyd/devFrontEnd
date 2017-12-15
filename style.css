@@ -1,14 +1,15 @@
 body {
   height: 100%;
   margin: 0;
-  background: navy;
+  background: #81CAFA;
   }
-  h2{
-    color:black;
-  }
-  h3{
+  
+  h2, h3{
   color: white;
+  text-align: center;
   }
   a img{
     width: 70%;
+    padding-left: 200px;
+    text-align: center;
   }
