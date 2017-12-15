@@ -1,0 +1,14 @@
+body {
+  height: 100%;
+  margin: 0;
+  background: navy;
+  }
+  h2{
+    color:black;
+  }
+  h3{
+  color: white;
+  }
+  a img{
+    width: 70%;
+  }
